@@ -10,5 +10,5 @@
  
  */ 
 
-    CREATE DATABASE meubanco
+    CREATE DATABASE dbKanban
     CHARACTER SET utf8mb4;
